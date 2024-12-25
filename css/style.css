@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+*{
+    font-family: "Inter", serif;
+}
+
+.navbar{
+    background-color: #043873;
+}
+
+img{
+    vertical-align: text-top;
+}
+
+.nav-link{
+    color: white;
+}
+
+.nav-link:hover{
+    color: white !important;
+}
+
+/* .btn-primary{
+    background-color: #ffe492 !important;
+    border: #ffe492 !important;
+    
+}
+
+.btn-secondary{
+    background-color: #4f9cf9 !important;
+    border: rgb(0, 69, 158) !important;
+    color: #ffffff !important;
+} */
+
+#Box1{
+    background-color: #043873;
+}
+#box1 h1{
+    color: white;
+    font-weight: 700 !important;
+}
+
+#Box1 p{
+   font-size: 1rem !important;
+   font-weight: 300;
+    color:white;
+}
+
+#Work-management h1{
+    font-size: 5rem;
+    font-weight: 700 !important;
+}
+
+#Work-management p{
+    font-size: 14px !important;
+    font-weight: 300;
+    
+ }
+#customise{
+    background-color: #043873;
+ }
+#customise
+    p{
+    font-size: 14px !important;
+    font-weight: 300;
+}
