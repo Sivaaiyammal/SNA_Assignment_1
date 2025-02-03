@@ -35,9 +35,10 @@ img{
 #Box1{
     background-color: #043873;
 }
-#box1 h1{
+#Box1 h1{
     color: white;
-    font-weight: 700 !important;
+    font-weight: 500 !important;
+    
 }
 
 #Box1 p{
@@ -47,7 +48,7 @@ img{
 }
 
 #Work-management h1{
-    font-size: 5rem;
+    font-size: 4.5rem;
     font-weight: 700 !important;
 }
 
@@ -63,4 +64,44 @@ img{
     p{
     font-size: 14px !important;
     font-weight: 300;
+}
+
+#needs h1{
+    font-size: 5rem;
+    font-weight: 700 !important;
+}
+
+#needs p{
+    font-size: 14px !important;
+    font-weight: 300;
+    
+ }
+
+ #plan h1{
+    font-size: 5rem;
+    font-weight: 700 !important;
+}
+
+#plan p{
+    font-size: 14px !important;
+    font-weight: 300;
+    
+ }
+
+ @media (min-width: 1200px) {
+    .h1, h1 {
+        font-size: 4rem;
+    }
+}
+
+ @media (min-width: 991px) { /* Small screens */
+    #extra_login {
+        margin-right: -4rem !important;
+    }
+}
+
+@media (max-width: 1106px) { /* Small screens */
+    #extra_login {
+        margin-right: -11rem !important;
+    }
 }
