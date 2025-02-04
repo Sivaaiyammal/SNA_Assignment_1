@@ -96,20 +96,47 @@
     
  }
 
- /* @media (min-width: 1200px) {
-    .h1, h1 {
-        font-size: 4rem;
-    }
+.list-unstyled{
+    font-size: 12px;
 }
 
- @media (min-width: 991px) { /* Small screens */
-    #extra_login {
-        margin-right: -4rem !important;
-    }
+.btn-outline{
+    border-color: #ffe492;
 }
 
-@media (max-width: 1106px) { /* Small screens */
-    #extra_login {
-        margin-right: -11rem !important;
-    }
-} */
+#personal{
+    background-color: #043873;
+}
+
+#personal svg{
+    color: #ffe492 !important ;
+}
+
+}
+#your-works{
+   background-color: #043873;
+}
+
+#your_data h1{
+    font-size: 4.5rem;
+    font-weight: 700 !important;
+}
+
+#your_data p{
+    font-size: 14px !important;
+    font-weight: 300;
+    
+ }
+
+#client h5{
+    font-size: 5.25rem;
+ }
+
+ #quote2, #quote3{
+    background-color: #4f9cf9;
+    color: white;
+ }
+
+ #footer{
+    background-color: #043873;
+}
