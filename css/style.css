@@ -8,9 +8,9 @@
     background-color: #043873;
 }
 
-img{
+/* img{
     vertical-align: text-top;
-}
+} */
 
 .nav-link{
     color: white;
@@ -32,16 +32,17 @@ img{
     color: #ffffff !important;
 } */
 
-#Box1{
+#hero-section{
     background-color: #043873;
 }
-#Box1 h1{
+#hero-section h1{
     color: white;
-    font-weight: 500 !important;
+    font-size: 4.2rem;
+    font-weight: 700 !important;
     
 }
 
-#Box1 p{
+#hero-section p{
    font-size: 1rem !important;
    font-weight: 300;
     color:white;
@@ -57,13 +58,20 @@ img{
     font-weight: 300;
     
  }
-#customise{
+ #customise{
     background-color: #043873;
- }
-#customise
-    p{
-    font-size: 14px !important;
-    font-weight: 300;
+}
+#customise h1{
+    color: white;
+    font-size: 4.2rem;
+    font-weight: 700 !important;
+    
+}
+
+#customise p{
+   font-size: 1rem !important;
+   font-weight: 300;
+    color:white;
 }
 
 #needs h1{
@@ -88,7 +96,7 @@ img{
     
  }
 
- @media (min-width: 1200px) {
+ /* @media (min-width: 1200px) {
     .h1, h1 {
         font-size: 4rem;
     }
@@ -104,4 +112,4 @@ img{
     #extra_login {
         margin-right: -11rem !important;
     }
-}
+} */
