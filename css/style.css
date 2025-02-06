@@ -11,7 +11,7 @@
 #personal,
 #apps,
 #your-works,
-#footer
+footer
 {
     background-color: #043873;
 }
@@ -38,8 +38,12 @@
  }
 
 
- .list-unstyled{
+ footer p,a{
     font-size: 12px;
+}
+
+footer a:hover{
+    color: #ffe492 !important;
 }
 
 .btn-outline{
@@ -92,3 +96,18 @@
     top: 50%;
     transform: translateY(-50%);
   }
+
+  @media (min-width: 1200px) {
+    .col-xl-3 {
+        flex: 0 0 auto;
+        width: 15%;
+    }
+}
+
+@media (min-width: 1200px) {
+    .col-xl-2 {
+        flex: 0 0 auto;
+        width: 12.666667%;
+    }
+}
+
