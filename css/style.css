@@ -4,15 +4,23 @@
     font-family: "Inter", serif;
 }
 
-.navbar{
+
+.navbar,
+#hero-section,
+#customise,
+#personal,
+#apps,
+#your-works,
+#footer
+{
     background-color: #043873;
 }
 
-/* img{
-    vertical-align: text-top;
-} */
-
-.nav-link{
+.nav-link,
+#hero-section, 
+#customise, 
+#your-works,
+#apps{
     color: white;
 }
 
@@ -20,125 +28,22 @@
     color: white !important;
 }
 
-/* .btn-primary{
-    background-color: #ffe492 !important;
-    border: #ffe492 !important;
-    
-}
-
-.btn-secondary{
-    background-color: #4f9cf9 !important;
-    border: rgb(0, 69, 158) !important;
-    color: #ffffff !important;
-} */
-
-#hero-section{
-    background-color: #043873;
-}
-#hero-section h1{
-    color: white;
-    font-size: 4.2rem;
-    font-weight: 700 !important;
-    
-}
-
-#hero-section p{
-   font-size: 1rem !important;
-   font-weight: 300;
-    color:white;
-}
-
-#Work-management h1{
-    font-size: 4.5rem;
-    font-weight: 700 !important;
-}
-
-#Work-management p{
-    font-size: 14px !important;
-    font-weight: 300;
-    
- }
- #customise{
-    background-color: #043873;
-}
-#customise h1{
-    color: white;
-    font-size: 4.2rem;
-    font-weight: 700 !important;
-    
-}
-
-#customise p{
-   font-size: 1rem !important;
-   font-weight: 300;
-    color:white;
-}
-
-#needs h1{
-    font-size: 5rem;
-    font-weight: 700 !important;
-}
-
-#needs p{
-    font-size: 14px !important;
-    font-weight: 300;
-    
- }
-
- #plan h1{
-    font-size: 5rem;
-    font-weight: 700 !important;
-}
-
-#plan p{
-    font-size: 14px !important;
-    font-weight: 300;
-    
- }
-
-.list-unstyled{
-    font-size: 12px;
-}
-
-.btn-outline{
-    border-color: #ffe492;
-}
-
-#personal{
-    background-color: #043873;
-}
 
 #personal svg{
     color: #ffe492 !important ;
 }
 
-}
-#your-works{
-   background-color: #043873;
-}
-
-#your_data h1{
-    font-size: 4.5rem;
-    font-weight: 700 !important;
-}
-
-#your_data p{
-    font-size: 14px !important;
-    font-weight: 300;
-    
- }
-
 #client h5{
     font-size: 5.25rem;
  }
 
- #quote2, #quote3{
-    background-color: #4f9cf9;
-    color: white;
- }
 
- #footer{
-    background-color: #043873;
+ .list-unstyled{
+    font-size: 12px;
+}
+
+.btn-outline{
+    border-color: #ffe492;
 }
 
 .carousel img {
