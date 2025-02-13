@@ -20,9 +20,9 @@ To run this project, you only need a web browser with an active internet connect
 ## Contributing
 Pull requests are welcome! Please follow these guidelines:
 1. Fork the repository.
-2. Create a feature branch (git checkout -b feature-name).
-3. Commit your changes (git commit -m "Add feature").
-4. Push to the branch (git push origin feature-name).
+2. Create a feature branch `git checkout -b feature-name`.
+3. Commit your changes `git commit -m "Add feature"`.
+4. Push to the branch `git push origin feature-name`.
 5. Open a Pull Request.
 
 ## License
@@ -32,4 +32,4 @@ This project has no official license. You are free to use, modify, and share it 
 For any questions, reach out to:
 
 - Sivakumar Murgan
-- GitHub: [https://github.com/Sivaaiyammal]
+- [GitHub](https://github.com/Sivaaiyammal)
