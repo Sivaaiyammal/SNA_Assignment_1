@@ -19,11 +19,13 @@ To run this project, you only need a web browser with an active internet connect
    
 ## Contributing
 Pull requests are welcome! Please follow these guidelines:
-1. Fork the repository.
-2. Create a feature branch `git checkout -b feature-name`.
-3. Commit your changes `git commit -m "Add feature"`.
-4. Push to the branch `git push origin feature-name`.
-5. Open a Pull Request.
+<ol>
+   <li>Fork the repository.</li>
+   <li>Create a feature branch `git checkout -b feature-name`.</li>
+   <li>Commit your changes `git commit -m "Add feature"`.</li>
+   <li>Push to the branch `git push origin feature-name`.</li>
+   <li>Open a Pull Request.</li>
+</ol>
 
 ## License
 This project has no official license. You are free to use, modify, and share it for personal or educational purposes. However, for commercial use or redistribution, please contact me.
