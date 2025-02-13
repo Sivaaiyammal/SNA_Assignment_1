@@ -13,6 +13,8 @@ To run this project, you only need a web browser with an active internet connect
 ### Steps to Run
 <ol>
   <li>Download or clone the repository:</li>
+   ```bash
+   git clone git@github.com:Sivaaiyammal/SNA_Assignment_1.git   
   <li>Open the project folder.</li>
   <li>Double-click on index.html or open it in a web browser.</li>
 </ol>
