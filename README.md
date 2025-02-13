@@ -34,5 +34,5 @@ This project has no official license. You are free to use, modify, and share it 
 ## Contact
 For any questions, reach out to:
 
-~ Sivakumar Murgan
+- Sivakumar Murgan
 ~ GitHub: [https://github.com/Sivaaiyammal]
