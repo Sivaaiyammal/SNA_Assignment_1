@@ -26,9 +26,6 @@ Pull requests are welcome! Please follow these guidelines:
 5. Open a Pull Request.
 
 ## License
-This project is licensed under the MIT License.
-
-## License
 This project has no official license. You are free to use, modify, and share it for personal or educational purposes. However, for commercial use or redistribution, please contact me.
 
 ## Contact
