@@ -35,4 +35,4 @@ This project has no official license. You are free to use, modify, and share it 
 For any questions, reach out to:
 
 - Sivakumar Murgan
-~ GitHub: [https://github.com/Sivaaiyammal]
+- GitHub: [https://github.com/Sivaaiyammal]
