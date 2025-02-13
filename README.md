@@ -15,7 +15,7 @@ To run this project, you only need a web browser with an active internet connect
    ```bash
    git clone git@github.com:Sivaaiyammal/SNA_Assignment_1.git   
 2. Open the project folder.
-3. Double-click on **index.html** or open it in a web browser.
+3. Double-click on `index.html` or open it in a web browser.
    
 ## Contributing
 Pull requests are welcome! Please follow these guidelines:
